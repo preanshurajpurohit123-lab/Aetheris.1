@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris",
+  "description": "An AI-native Wealth Operating System for learning and practicing investing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
